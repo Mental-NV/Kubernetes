@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# My ignores
+azure-voting-app-redis/
+eShopOnContainers/
+
 # User-specific files
 *.rsuser
 *.suo
